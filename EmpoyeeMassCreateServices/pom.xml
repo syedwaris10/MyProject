@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<hibernate.version>5.4.0.Final</hibernate.version>
-		<springframework.version>5.1.2.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 	</properties>
 
 	<dependencies>
